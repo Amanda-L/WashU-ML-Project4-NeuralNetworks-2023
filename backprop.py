@@ -40,16 +40,4 @@ def backprop(W, aas,zzs, yTr,  trans_func_der):
     return gradient 
 
 
-    
-#     gamma[0] = delta * trans_func_der(zzs[0]) #computing loss in output layer
-#     gamma[1] = np.dot(zzs[1] * W[0].T, gamma[0].T)
-#     alpha = .001
-#     W[0] = W[0] - np.dot(alpha*gamma[0],zzs[1].T)
-#     for i in range(len(W)):
-#         gradient[i] = np.dot(gamma[i],zzs[i-1].T)
-#         gamma[i-1] = np.dot(zzs[i-1]*W[i].T,gamma[i])
-#         W[i]  = W[i] - alpha*gradient[i]
 
-
-
-#     return gradient 
