@@ -1,1 +1,3 @@
-# WashU-ML-Project4-NeuralNetworks-2023
+# Project 4: Neural Networks
+
+View 04Neuralnetworks.html for detailed instructions on the assignment.
