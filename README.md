@@ -3,7 +3,7 @@
 ![image](https://github.com/Amanda-L/WashU-ML-Project4-NeuralNetworks-2023/assets/52643725/8b8eb876-f520-4377-b958-5c3a6a54cced)
 
 
-This assignment aims to implement a neural network and test it on the Boston dataset, which contains housing prices as targets and community statistics as features. The implementation is organized into three functions and a preprocessing step in the file `deepnet.py`. Here is a summarized breakdown of the tasks:
+This assignment aims to implement a neural network and test it on the Boston dataset, which contains housing prices as targets and community statistics as features. The implementation is organized into three functions (forward pass, compute loss, and back propagation) and a preprocessing step in the file `deepnet.py`. Here is a summarized breakdown of the tasks:
 
 1. **Preprocessing (preprocess):**
    - Implement the `preprocess` function in `deepnet.py`.
