@@ -5,7 +5,7 @@
 
 This assignment aims to implement a neural network and test it on the Boston dataset, which contains housing prices as targets and community statistics as features. The implementation is organized into three functions (forward pass, compute loss, and back propagation) and a preprocessing step in the file `deepnet.py`. Here is a summarized breakdown of the tasks:
 
-1. **Preprocessing (preprocess):**
+1. **Preprocessing:**
    - Implement the `preprocess` function in `deepnet.py`.
    - Take the training and test data as input.
    - Make the training data zero-mean, and each feature should have standard deviation 1.
