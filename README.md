@@ -39,4 +39,4 @@ Each dot shows the training/testing error of a house price prediction example. T
 
 
 
-View 04Neuralnetworks.html under the Instructions folder for detailed instructions on the assignment.
+View Project 4_Neural Networks.pdf and 04Neuralnetworks.html under the Instructions folder for detailed instructions on the assignment.
